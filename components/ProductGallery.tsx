@@ -8,17 +8,17 @@ export default function ProductGallery() {
   const images = [
     {
       src: '/products/product-1.jpg',
-      alt: 'Roll Karet Janti Jaya - Produk 1',
+      alt: 'Roll Karet Janti Jaya',
       title: 'Handmade Quality',
     },
     {
       src: '/products/product-2.jpg',
-      alt: 'Roll Karet Janti Jaya - Produk 2',
+      alt: 'Roll Karet Janti Jaya',
       title: 'Precision Craftsmanship',
     },
     {
       src: '/products/product-3.jpg',
-      alt: 'Roll Karet Janti Jaya - Produk 3',
+      alt: 'Roll Karet Janti Jaya',
       title: 'Premium Materials',
     },
   ];
